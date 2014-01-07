@@ -1,6 +1,7 @@
 puts "let's guess a number"
 
 #num = (rand*100).floor
+num = 40
 num = 50
 tries = 0
 guess = false #set the condition
